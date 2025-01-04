@@ -1,8 +1,4 @@
-ccc
-cccc
-
-ccc
-
-cccc
-
-samy is your god
+#include <stdio.h>
+#include <stdlib.h>
+#include <string.h>
+#include <math.h>
