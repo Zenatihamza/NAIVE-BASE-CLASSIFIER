@@ -9,4 +9,3 @@ double calculerProbabilite(char mots[MAX_MOTS][MAX_LONGUEUR_MESSAGE], int *frequ
     return probabilite;
 }
 
-
